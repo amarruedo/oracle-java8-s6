@@ -13,6 +13,4 @@ RUN \
 # Define commonly used JAVA_HOME variable
 ENV JAVA_HOME /usr/lib/jvm/java-8-oracle
 
-# root filesystem
-COPY rootfs /
 
